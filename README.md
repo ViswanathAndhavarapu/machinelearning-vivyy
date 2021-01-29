@@ -1,6 +1,6 @@
 This dataset is taken from www.kaggle.com
 Description about attributes is given in Data Dictionary file attatched here.
-Steps involved in this projects are:
+Steps involved in this project are:
               Data Preprocessing:
                   importing the required libraries
                   importing the dataset
